@@ -1,0 +1,140 @@
+body {
+    font-size: 14px;
+    margin: 0;
+}
+header, footer{
+    background-color: #1DB954;
+    color: white;
+    margin: 0;
+}
+header h1{
+    font-size: 45px;
+    padding: 20px;
+    margin: 0;
+}
+footer h1{
+    font-size: 25px;
+    padding: 15px;
+    margin: 0;
+}
+h5{
+    margin: 0px;
+    font-size: 35px;
+}
+h6{
+background-color: #1DB954;
+}
+.c1{
+    background-color: #8a8a8a;
+    margin: 1px;
+}
+.c2{
+    background-color: #cecece;
+    margin: 1px;
+}
+.col1, .col2, .col3, .col4, .col5, .col6, .col7, .col8, .col9, .col10, .col11, .col12{
+    float: left;
+}
+.col3{
+    width: 33.33%;
+}
+.col4{
+    width: 25%;
+}
+.col5{
+    width: 20%;
+}
+.col4 h6{
+    color: white;
+    margin: 0px 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 10px;
+}
+.colorgreen{
+    color:#1DB954;
+}
+.container {
+    width: 100%;
+    height: 100%;
+    background-color:#cecece ;
+    display: inline-block;
+    min-height: 285px;
+}
+.fontr{
+    font-family: 'Roboto', sans-serif;
+}
+.fontr strong{
+    color: #1DB954;
+}
+.fontwhite{
+    color: white;
+}
+.fuerte{
+    font-size: 18px;
+}
+.logocontainer{
+    background-color: #fff;
+    text-align: center;
+    padding-top: 15px;
+}
+.logoimg{
+    height: 400px;
+    width: 450px;
+}
+.msides20{margin: 75px;}
+.ml10{margin-left: 5px;}
+.mr10{margin-right: 5px;}
+.m0{margin: 0;}
+.m1px{margin: 1px;}
+.m5{margin: 2em}
+.mb1{margin-bottom: 0.25cm}
+.mb2{margin-bottom: 0.5em}
+.mb3{margin-bottom: 1em}
+.mb4 {margin-bottom: 1.5em}
+.mb5 {margin-bottom: 2em}
+.mb6{margin-bottom: 5em;}
+.mb7{margin-bottom: 8em;}
+.mt1{margin-top: 0.25cm;}
+.mt2{margin-top: 0.5em;}
+.mt3{margin-top: 1em;}
+.mt4{margin-top: 1.5em;}
+.mt5{margin-top: 2em;}
+.pt3{
+    padding-top: 1em;
+}
+.row {
+    display: block;
+    overflow: hidden;
+    height: 100%;
+}
+.row2{
+    width: 100%;
+    display: inline-block;
+    overflow: hidden;
+    height: 50%;
+}
+.tablex{
+    width: 70%;
+}
+tr td{
+    border: 1px solid white;
+}
+.textcenter{
+    text-align: center;
+}
+.tit{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.t50{
+    font-size: 70px;
+}
+.w80{
+    width: 80%;
+}
+* {
+    box-sizing: border-box;
+}
